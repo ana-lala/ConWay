@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1685231583 source:c:\programacion\examen\conway\main.cpp
+	<iostream>
+	"EstablecerConsola.hpp"
+	"FuncionesAuxiliares.hpp"
+
+1685230739 source:c:\programacion\examen\conway\establecerconsola.cpp
+	"EstablecerConsola.hpp"
+
+1685230714 c:\programacion\examen\conway\establecerconsola.hpp
+	<windows.h>
+	<conio.h>
+
+1685231004 source:c:\programacion\examen\conway\funcionesauxiliares.cpp
+	"FuncionesAuxiliares.hpp"
+
+1685231010 c:\programacion\examen\conway\funcionesauxiliares.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<limits>
+
+1720468639 source:c:\conway\main.cpp
+	<iostream>
+	"EstablecerConsola.hpp"
+	"FuncionesAuxiliares.hpp"
+
+1720467276 c:\conway\establecerconsola.hpp
+	<windows.h>
+	<conio.h>
+
+1720467276 c:\conway\funcionesauxiliares.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<limits>
+
+1720467276 source:c:\conway\establecerconsola.cpp
+	"EstablecerConsola.hpp"
+
+1720467276 source:c:\conway\funcionesauxiliares.cpp
+	"FuncionesAuxiliares.hpp"
+
